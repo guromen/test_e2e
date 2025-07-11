@@ -1,0 +1,48 @@
+/* card-widget {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+card-widget h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.card-logos {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.card-logos img {
+  width: 50px;
+  height: 32px;
+}
+
+.card-form {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.card-input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  flex: 1;
+}
+
+.card-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.card-result {
+  margin-top: 10px;
+  font-weight: bold;
+} */
