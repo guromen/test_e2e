@@ -24,6 +24,7 @@ describe("Credit Card Validator form", () => {
       headless: false, // show gui
       slowMo: 250,
       devtools: true, // show devTools
+      args: ["--no-sandbox", "--disable-setuid-sandbox"],
     });
     page = await browser.newPage();
   });
